@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross gnome2
 
 NAME="mingw64-x86_64-dbus-glib"
-VERSION=0.100.2
+VERSION=0.102
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="D-Bus GLib bindings for Win64 toolchain"
